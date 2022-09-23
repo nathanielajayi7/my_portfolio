@@ -96,5 +96,5 @@ function getTemplate($p){
      </table>
  
  </body>
- EOT;
+EOT;
 }
