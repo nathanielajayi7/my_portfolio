@@ -39,6 +39,7 @@ I am very proficient with IoT projects" />
 
 	<link href="https://fonts.googleapis.com/css?family=Space+Mono" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet">
+	<link href="github-widget/github-widget.css" rel="stylesheet" type="text/css" />
 
 	<!-- Animate.css -->
 	<link rel="stylesheet" href="css/animate.css">
@@ -554,6 +555,9 @@ I am very proficient with IoT projects" />
 			</div>
 		</div>
 	</div> -->
+
+
+	<div class="github-widget" data-user="nathanielajayi7" data-options='{"sortBy":"stargazers_count", "limit":6}'></div>
 
 	<div id="fh5co-started" class="fh5co-bg-dark">
 		<div class="overlay"></div>
