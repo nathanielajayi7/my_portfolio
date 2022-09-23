@@ -102,7 +102,7 @@ I am very proficient with IoT projects" />
 							<li><span class="first-block">Full Name:</span><span class="second-block">Nathaniel Adewale Ajayi</span></li>
 							<li><span class="first-block">Phone:</span><span class="second-block">+234 706 469 1952</span></li>
 							<li><span class="first-block">Email:</span><span class="second-block">hello@<?php echo $_SERVER['SERVER_NAME'];  ?></span></li>
-							<li><span class="first-block">Website:</span><span class="second-block">www.yoursite.com</span></li>
+							<li><span class="first-block">Website:</span><span class="second-block">www.<?php echo $_SERVER['SERVER_NAME'];  ?></span></li>
 							<li><span class="first-block">Address:</span><span class="second-block">Dopemu-Agege, Lagos, NG</span></li>
 						</ul>
 					</div>
@@ -425,35 +425,35 @@ I am very proficient with IoT projects" />
 		<div class="container">
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
-					<h2>Work</h2>
+					<h2>Projects I've Worked On</h2>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-3 text-center col-padding animate-box">
-					<a href="#" class="work" style="background-image: url(images/portfolio-1.jpg);">
+					<a href="https://www.luca.africa/about" class="work" style="background-image: url(images/luca.jpg);">
 						<div class="desc">
-							<h3>Project Name</h3>
-							<span>Illustration</span>
+							<h3>Luca Africa</h3>
+							<span>Luca is a simple and easy to use book-keeping tool for millions of micro and small businesses in Africa. Access the application from anywhere; sign-up and start using it in minutes</span>
 						</div>
 					</a>
 				</div>
 				<div class="col-md-3 text-center col-padding animate-box">
-					<a href="#" class="work" style="background-image: url(images/portfolio-2.jpg);">
+					<a href="https://www.saladafrica.com" class="work" style="background-image: url(images/salad.jpg);">
 						<div class="desc">
-							<h3>Project Name</h3>
-							<span>Brading</span>
+							<h3>Salad Africa</h3>
+							<span>Salad creates financial wellness solutions for the improved lives of employees across Africa. We seek to bring financial security, freedom, and ease to millions of working adults on a monthly paycheck</span>
 						</div>
 					</a>
 				</div>
 				<div class="col-md-3 text-center col-padding animate-box">
-					<a href="#" class="work" style="background-image: url(images/portfolio-3.jpg);">
+					<a href="https://mylemonades.com" class="work" style="background-image: url(images/lemonades.jpg);">
 						<div class="desc">
-							<h3>Project Name</h3>
-							<span>Illustration</span>
+							<h3>My Lemonades</h3>
+							<span>Lemonades is a unique dating platform for men and women who are looking for the love of their life. Users can access chat and other features for free however users can also subscribe to premium packages to take their love search to the next level. </span>
 						</div>
 					</a>
 				</div>
-				<div class="col-md-3 text-center col-padding animate-box">
+				<!-- <div class="col-md-3 text-center col-padding animate-box">
 					<a href="#" class="work" style="background-image: url(images/portfolio-4.jpg);">
 						<div class="desc">
 							<h3>Project Name</h3>
@@ -492,7 +492,7 @@ I am very proficient with IoT projects" />
 							<span>Illustration</span>
 						</div>
 					</a>
-				</div>
+				</div> -->
 			</div>
 		</div>
 	</div>
@@ -569,7 +569,7 @@ I am very proficient with IoT projects" />
 	</div>
 
 	<div id="fh5co-consult">
-		<div class="video fh5co-video" style="background-image: url(images/cover_bg_1.jpg);">
+		<div class="video fh5co-video" style="background-image: url(images/jefferson.jpg);">
 			<div class="overlay"></div>
 		</div>
 		<div class="choose animate-box">
