@@ -432,26 +432,26 @@ I am very proficient with IoT projects" />
 			<div class="row">
 				<div class="col-md-3 text-center col-padding animate-box">
 					<a href="https://www.luca.africa/about" class="work" style="background-image: url(images/luca.jpg);">
-						<div class="desc">
+						<!-- <div class="desc">
 							<h3>Luca Africa</h3>
 							<span>Luca is a simple and easy to use book-keeping tool for millions of micro and small businesses in Africa. Access the application from anywhere; sign-up and start using it in minutes</span>
-						</div>
+						</div> -->
 					</a>
 				</div>
 				<div class="col-md-3 text-center col-padding animate-box">
 					<a href="https://www.saladafrica.com" class="work" style="background-image: url(images/salad.jpg);">
-						<div class="desc">
+						<!-- <div class="desc">
 							<h3>Salad Africa</h3>
 							<span>Salad creates financial wellness solutions for the improved lives of employees across Africa. We seek to bring financial security, freedom, and ease to millions of working adults on a monthly paycheck</span>
-						</div>
+						</div> -->
 					</a>
 				</div>
 				<div class="col-md-3 text-center col-padding animate-box">
 					<a href="https://mylemonades.com" class="work" style="background-image: url(images/lemonades.jpg);">
-						<div class="desc">
+						<!-- <div class="desc">
 							<h3>My Lemonades</h3>
 							<span>Lemonades is a unique dating platform for men and women who are looking for the love of their life. Users can access chat and other features for free however users can also subscribe to premium packages to take their love search to the next level. </span>
-						</div>
+						</div> -->
 					</a>
 				</div>
 				<!-- <div class="col-md-3 text-center col-padding animate-box">
