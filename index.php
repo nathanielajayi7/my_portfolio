@@ -365,9 +365,7 @@ I am very proficient with IoT projects" />
 				<div class="col-md-3 col-sm-6 col-xs-12 text-center">
 					<div class="chart" data-percent="75"><span><strong>CSS3</strong>75%</span></div>
 				</div>
-				<div class="col-md-3 col-sm-6 col-xs-12 text-center">
-					<div class="chart" data-percent="70"><span><strong>jQuery</strong>70%</span></div>
-				</div>
+				
 
 				<div class="col-md-3 col-sm-6 col-xs-12 text-center">
 					<div class="chart" data-percent="80"><span><strong>PHP</strong>80%</span></div>

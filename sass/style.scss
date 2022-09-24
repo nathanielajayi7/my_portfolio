@@ -761,7 +761,7 @@ h1, h2, h3, h4, h5, h6, figure {
 		vertical-align: middle;
 		height: 270px;
 		background: $brand-white;
-		opacity: 0;
+		opacity: 0 !important;
 		@include transition(.3s);
 		h3{
 			font-size: 20px;
