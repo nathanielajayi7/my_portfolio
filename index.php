@@ -286,7 +286,7 @@ I am very proficient with IoT projects" />
 								</span>
 								<div class="feature-copy">
 									<h3>Web Scrapping</h3>
-									<p>I have a lot of experience with building web scrappers as well using Java and C#. Works for console and can be hosted as well</p>
+									<p>I have a lot of experience with building web scrappers as well using Java and C#. Works for console and can be hosted on a server</p>
 								</div>
 							</div>
 
@@ -332,18 +332,20 @@ I am very proficient with IoT projects" />
 							</div>
 						</div>
 
-					</div>
-					<div class="col-md-4 text-center">
-						<div class="feature-left">
-							<span class="icon">
-								<i class="icon-chat"></i>
-							</span>
-							<div class="feature-copy">
-								<h3>Support & Testing</h3>
-								<p>I also help maintaining existing projects. I can also assist with bug tracking, QAT testing and debugging existing applications</p>
+						<div class="col-md-4 text-center">
+							<div class="feature-left">
+								<span class="icon">
+									<i class="icon-chat"></i>
+								</span>
+								<div class="feature-copy">
+									<h3>Support & Testing</h3>
+									<p>I also help maintaining existing projects. I can also assist with bug tracking, QAT testing and debugging existing applications</p>
+								</div>
 							</div>
 						</div>
+
 					</div>
+
 				</div>
 			</div>
 		</div>
@@ -607,7 +609,7 @@ I am very proficient with IoT projects" />
 				}
 			}
 			?>
-			<form method="post" enctype="multipart/form-data">
+			<form method="post" action="#fh5co-consult" enctype="multipart/form-data">
 				<div class="row form-group">
 					<div class="col-md-6">
 						<input type="text" id="fname" name="fname" minlenght="3" class="form-control" placeholder="Your firstname" required>
