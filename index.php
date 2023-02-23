@@ -636,9 +636,9 @@ I am very proficient with IoT projects" />
 						<textarea name="message" id="message" name="message" cols="30" minlength="10" rows="10" class="form-control" placeholder="Say something" required></textarea>
 					</div>
 				</div>
-				<div class="form-group">
+				<!-- <div class="form-group">
 					<input type="submit" name="submit" value="Send Message" class="btn btn-primary">
-				</div>
+				</div> --->
 
 			</form>
 		</div>
